@@ -157,3 +157,13 @@
         border: 5px solid rgb(175, 239, 126);
         font-weight: bolder;
     }
+
+    h1{
+        font-size: 60px;
+    font-weight: bold;
+    background: linear-gradient(180deg, #FF9933, white, green);
+    background-clip: border-box;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-color: rgb(239, 179, 67);
+    }
