@@ -159,11 +159,22 @@
     }
 
     h1{
-        font-size: 60px;
+    font-size: 60px;
     font-weight: bold;
     background: linear-gradient(180deg, #FF9933, white, green);
     background-clip: border-box;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     background-color: rgb(239, 179, 67);
+    }
+
+    .radha{
+        background-color: orange;
+        width: 500px;
+    }
+
+    .space{
+        width: 500px;
+        height: 20px;
+        background-color: white;
     }
