@@ -1,0 +1,159 @@
+
+        *{
+            margin : 0px;
+            padding : 0px;
+            box-sizing: border-box;
+        }
+
+        /* ul{
+            margin : 20px ;
+        } */
+/* 
+        #list-margin{
+            margin : 20px ;
+
+        } */
+         header{
+            width: 100%;
+         }
+         
+         .list-margin{
+            margin : 20px ;
+        }
+
+        section{
+         margin-left: 600px;
+         margin-top: 30px;
+        } 
+
+
+          table {
+        width:50%;
+        border-collapse: collapse;
+        margin-left:400px ;
+    }
+
+    th, td {
+        border:2px solid #1e4aa0;
+        padding:8px;     
+
+    }
+
+    th {
+        background:#2b5fc0;
+        color:white;
+        font-weight:bold;
+    }
+
+    tr:nth-child(even) {
+        background:#c5d3eb;
+    }
+
+    tr:nth-child(odd) {
+        background:white;
+    }
+
+     
+     .form{
+        border: 2px solid black;
+        width: 300px;
+        padding: 10px;
+        background-color: rgb(121, 216, 219);
+        border-radius: 15px;
+        box-shadow: 10px 10px 10px #e9f006, -10px -10px 10px #e80f0f;
+     }
+
+      h4{
+        margin-left: 60px;
+        margin-bottom: 30px;
+      }
+
+    
+    #name{
+        width: 180px;
+        height: 20px;
+        border-radius: 4px;
+        background-color: rgb(190, 184, 184);
+        margin-left: 20px ;
+        background: #3498db;box-shadow: 0px 5px 10px #44f29e, 0px 0px 10px #d2dfe8;
+    }
+
+     #name:hover {
+        background: #b2b6b9;box-shadow: 0px 5px 10px #e36dc1, 0px 0px 10px #69abdb;
+
+     }
+
+    #email{
+        width: 180px;
+        height: 20px;
+        border-radius: 4px;
+        background-color: rgb(190, 184, 184);
+        margin-left: 20px ;
+        background: #3498db;box-shadow: 0px 5px 10px #44f29e, 0px 0px 10px #d2dfe8;
+    }
+
+     #email:hover {
+        background: #b2b6b9;box-shadow: 0px 5px 10px #bbe035, 0px 0px 10px #3701da;
+
+     }
+
+    #phone{
+        width: 180px;
+        height: 20px;
+        border-radius: 4px;
+        background-color: rgb(190, 184, 184);
+        margin-left: 20px ;
+        background: #3498db;box-shadow: 0px 5px 10px #44f29e, 0px 0px 10px #d2dfe8;
+    }
+
+    #phone:hover {
+        background: #b2b6b9;box-shadow: 0px 5px 10px #FF00FF, 0px 0px 10px #DB5F5F;
+
+     }
+
+    #password{
+        width: 180px;
+        height: 20px;
+        border-radius: 4px;
+        background-color: rgb(190, 184, 184);
+        background: #3498db;box-shadow: 0px 5px 10px #44f29e, 0px 0px 10px #d2dfe8;
+    }
+     
+      #password:hover {
+        background: #b2b6b9;box-shadow: 0px 5px 10px #002fff, 0px 0px 10px #fff201;
+
+     }
+
+    #submit{
+        width: 80px;
+        height: 40px;
+        border-radius: 15px;
+        background-color: rgb(190, 184, 184);
+        margin-left: 15px;
+        background: #3498db;box-shadow: 0px 5px 10px #44f29e, 0px 0px 10px #d2dfe8;        
+    }
+
+    #submit:hover{
+        background-color: #2a2525;
+        color: white;
+        border: 5px solid rgb(173, 242, 149);
+        font-weight: bolder;
+        
+    }
+
+    #save{
+        width: 80px;
+        height: 40px;
+        border-radius: 15px;
+        background-color: rgb(190, 184, 184);
+        margin-left: 90px;
+        background: #3498db;box-shadow: 0px 5px 10px #44f29e, 0px 0px 10px #d2dfe8;
+
+    }
+ 
+     #save:hover{
+        background-color: #2a2525;
+        color: white;
+        border: 5px solid rgb(175, 239, 126);
+        font-weight: bolder;
+    }

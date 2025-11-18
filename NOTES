@@ -1,0 +1,92 @@
+  HTML HAEDAING TAGS
+ 
+ 
+  <!-- The `<H1>hello world</H1>` line in the HTML code is creating a heading element with the text
+  "hello world" inside it. The `<H1>` tag represents the most important heading in the document,
+  typically used for the main title or section heading. In this case, it will display "hello world"
+  as a top-level heading on the webpage. -->
+
+  Sematics HTML5s Elements 
+  Header
+  Section
+  Footer
+  Aside 
+  Article
+
+  * universal tag 
+  lists 
+  ol = ordre list
+  ul = unorder list
+  li = list
+
+   css 
+
+    inline 
+    internal 
+    external
+
+    Fundamentals 
+
+     tags </>
+     ID  (#)
+     Class (.)
+
+
+     The practical effect is simple 
+     with noindex :- the page stays invisibile in search results.
+     with nofollow :- the page does not help any linked pages with seo.
+
+     FROMS CONTROLS
+     dates 
+     month 
+     week
+     text
+     email
+     password 
+
+      Cookies (4kb)
+
+      Webstorage(5mb)
+      1. local storage
+      2. session storage
+
+     1. local storage 
+      :- local  storage is a web storegae feature that allow websites to store data in the broswer with no expiration time.
+
+      2. session storage :-
+       this means the data remains available / even after the user closes and reopens the broswer or the system is resatred.
+      3. it is typically ised to save long-term data such as uder preferences ,themes,or login tokens.
+      4. session storage is a also browswer based storage method,
+      but it only stores data for the duration of a single browswer tab session.once the tab is closed , all sessions storage data is automatically deleted. 
+
+ 
+     Git:-  git is a distributed version control system that helps you track changes in your code,save different versiond of your projects, and work with others woitout
+     overwritting each other's work . it alllowa you to create branches,
+ experiment safely , and easily go to back to older version whenver needed.
+
+  git :- toool for veresion control .
+
+  Fundamentals Command
+  1. GIT init - create a repo
+  2. git add - add files to staging
+  3. git commit - save changes to local repo
+  4. git status - show files changes
+  5. git clone - copy a remote repo
+  6. git push - uploads commits to remote
+  7. git pull - download and merge from remote
+  8. git branch - show bracnches
+  9. git checkout - switch branches
+  10. git remote -v - show conntected remote repo  
+  11. git log - 
+  12. git merge -
+  13. git fetch - download updates without merge
+  14. git stash - save uncommitted changes
+  15. git stash pop - restore stahsed worked
+  16. git reset - 
+  17. git re 
+  18. git mv
+  19. git diff
+
+ 
+  when we updates a file in git firstly 
+  we add the files and the commit the files and after commit the files we push the files on git .
