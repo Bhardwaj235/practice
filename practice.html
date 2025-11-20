@@ -4,8 +4,56 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Practice htlm css</title>
+    <style>
+    body {
+    font-family: Arial;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background: #747474;
+    padding: 10px 20px;
+}
+
+ 
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+    gap: 35px;
+    margin-left: 1000px;
+    margin-top: -65px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    font-variant: small-caps;
+     line-height: 1;
+    letter-spacing: 1px;
+     text-shadow: 2px 2px 5px rgb(255, 191, 0);
+}
+
+    </style>
 </head>
 <body>
-    <h1 style="height: 50px; width: 250px; font-weight: bolder;background-color: coral; text-align: center;padding: 2px;"> RADHE RADHE </h1>
+  <header>
+    <h1 class="header" style="font-weight: bolder;">MyPortfolio</h1>
+    <nav>
+        <ul class="nav_bar">
+        <li><a href="#Home">Home</a></li>
+        <li><a href="#About">About</a></li>
+        <li><a href="#Skills">Skills</a></li>
+        <li><a href="#projects">Projects</a></li>
+        <li><a href="#Contact">Contact</a></li>
+    </ul>
+    </nav></header>
 </body>
 </html>
